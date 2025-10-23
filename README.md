@@ -168,6 +168,14 @@ graph LR
 ```
 ---
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1G2ArwvddQu3_RdYWzc6qajMQmBFvrrlT/view?usp=sharing" download>
+    <img src="https://img.shields.io/badge/📄_Download_Resume-Blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+
+----
+
 <div align="center">
   
 ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
