@@ -139,18 +139,19 @@ Comprehensive weather app with real-time forecasts and location-based services
 
 </div>
 
-### 🎯 Competitive Programming
-- 🏆 **250+ Problems** solved on CodeChef
-- ⚡ **50 Days Badge** on LeetCode
-- 📈 Active participant in coding contests
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidansari310&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+
+### 🎯 Competitive Programming Stats
+- 🔥 **250+ Problems** solved on CodeChef | **Rating: 1198** ⭐
+- 🏅 **70+ Problems** solved on LeetCode | **50 Days Badge** earned
+- 📊 Consistent daily problem-solving practice
+- 💪 Focus on DSA, algorithms, and optimization
 
 ---
 
@@ -160,18 +161,20 @@ Comprehensive weather app with real-time forecasts and location-based services
 graph LR
     A[Learning] --> B[DSA in C++]
     A --> C[MERN Stack]
-    A --> D[System Design]
+    A --> D[Docker & DevOps]
     B --> E[Problem Solving]
     C --> F[Full Stack Projects]
-    D --> G[Scalable Architecture]
+    D --> G[Containerization]
 ```
+---
 
 <div align="center">
   
-### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Thanks for stopping by! Let's connect and create something awesome together! 🚀✨**
 
-[![](https://visitcount.itsvg.in/api?id=shahidansari310&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shahidansari310&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 </div>
