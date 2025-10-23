@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shahid+Ansari;Full+Stack+Developer;Competitive+Programmer;AWS+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Shahid+Ansari;Full+Stack+Web+Developer;Competitive+Programming+Enthusiast;AWS+Cloud+Practitioner" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahidansari310&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shahidansari310?style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=shahidansari310&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shahidansari310?style=flat-square&color=blue" alt="Followers" />
 </div>
 
 ---
@@ -13,25 +13,26 @@
 
 ```javascript
 const shahid = {
-    pronouns: "He/Him",
+    role: "Full Stack Developer & Problem Solver",
     location: "Ghaziabad, India 🇮🇳",
-    education: "B.Tech CSE @ ABES Engineering College",
-    currentFocus: ["DSA in C++", "MERN Stack Development", "System Design"],
-    funFact: "I turn coffee into code ☕️→💻",
-    goal2025: "Land a Software Engineering Internship",
-    hobbies: ["Competitive Programming", "Fitness", "Environmental Activities"]
+    college: "ABES Engineering College | CSE 3rd Sem",
+    currentlyLearning: ["Data Structures & Algorithms in C++", "MERN Stack", "Docker & DevOps"],
+    certifications: ["AWS Cloud Practitioner", "ReactJS"],
+    achievements: "250+ problems solved | CodeChef Rating: 1198",
+    interests: ["Web Development", "Competitive Programming", "System Design"],
+    lifePhilosophy: "Learn, Build, Repeat 🔄"
 };
 ```
 
-🎓 **3rd Semester CSE Student** | 💡 **Problem Solver** | ⚡ **Fast Learner**
+🔥 **Computer Science Student** passionate about building scalable web applications
 
-- 🔭 Currently building **production-ready web applications**
-- 🌱 Learning **MERN Stack, System Design & Cloud Computing**
-- 💪 Solved **250+ problems** on CodeChef
-- ☁️ **AWS Cloud Practitioner Certified**
-- 🎯 **2024 Goal:** Master Full-Stack Development
-- 💬 Ask me about **React, DSA, Competitive Programming**
-- 📫 Reach me: **shahidansari945256@gmail.com**
+- 🌟 Currently mastering **DSA in C++** and **Full-Stack Development**
+- 🚀 Building real-world projects with **React.js & Node.js**
+- 💻 Solved **70+ LeetCode problems** & **250+ CodeChef problems** | **CodeChef Rating: 1198**
+- ☁️ **AWS Certified** Cloud Practitioner
+- 🎯 **Mission 2025:** Secure a Software Engineering Internship
+- 📚 Love exploring new technologies and frameworks
+- ⚡ Fun fact: **Debugging is my cardio!** 💪
 
 ---
 
@@ -83,8 +84,9 @@ const shahid = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### Cloud
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -115,12 +117,11 @@ Comprehensive weather app with real-time forecasts and location-based services
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidansari310&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidansari310&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidansari310&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidansari310&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidansari310&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
 </div>
 
 ---
@@ -140,18 +141,11 @@ Comprehensive weather app with real-time forecasts and location-based services
 
 </div>
 
-### 🎯 Competitive Programming
-- 🏆 **250+ Problems** solved on CodeChef
-- ⚡ **50 Days Badge** on LeetCode
-- 📈 Active participant in coding contests
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidansari310&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+### 🎯 Competitive Programming Stats
+- 🔥 **250+ Problems** solved on CodeChef | **Rating: 1198** ⭐
+- 🏅 **70+ Problems** solved on LeetCode | **50 Days Badge** earned
+- 📊 Consistent daily problem-solving practice
+- 💪 Focus on DSA, algorithms, and optimization
 
 ---
 
@@ -161,19 +155,11 @@ Comprehensive weather app with real-time forecasts and location-based services
 graph LR
     A[Learning] --> B[DSA in C++]
     A --> C[MERN Stack]
-    A --> D[System Design]
+    A --> D[Docker & DevOps]
     B --> E[Problem Solving]
     C --> F[Full Stack Projects]
-    D --> G[Scalable Architecture]
+    D --> G[Containerization]
 ```
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 ---
 
@@ -187,10 +173,10 @@ graph LR
 
 <div align="center">
   
-### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Thanks for stopping by! Let's connect and create something awesome together! 🚀✨**
 
-[![](https://visitcount.itsvg.in/api?id=shahidansari310&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shahidansari310&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
