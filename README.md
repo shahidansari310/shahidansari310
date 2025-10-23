@@ -14,5 +14,6 @@ I am currently learning DSA in Cpp and web Development
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahidansari310&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shahidansari310&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
